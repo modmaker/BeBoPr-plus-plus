@@ -1,18 +1,16 @@
-BeBoPr-plus-plus
+BeBoPr-plus-plus / a.k.a. BeBoPr++
 ================
+> **2014-04-10** rewrite.
+
 ___
-This repository is going to hold all **BeBoPr++** BeagleBone Cape specific information.
+This repository holds only **BeBoPr++** specific information. The BeBoPr cape includes all I/O necessary to build a 3D-printer or create some other form of numerical control.
 ___
-> **2014-03-14** added elinux.org product page reference.
 
 ![BeBoPr++ R2 board](http://imageshack.com/a/img36/9963/9jdd.jpg)
 
+*The BeBoPr++ Cape photo* .
 
-Finally the boards and documentation are ready. It's been a while since the BeBoPr+ ran out of stock. But now, at the time this page was created, several BeBoPr++ boards have been sold and shipped around the world. It's no longer a vapour-ware product. Public announcements on pricing and how to order will follow soon.
+## Documentation
+A summary of the features can be found on the cape's **[product page](http://elinux.org/BeBoPr++)** on the [Embedded Linux Wiki](http://elinux.org/Main_Page). For more details see the [**complete manual**](https://github.com/modmaker/BeBoPr-plus-plus/blob/master/BeBoPr++ User Manual.pdf), that's available as pdf. More online information can be found [**via this link,**](https://github.com/modmaker/BeBoPr/wiki/The-BeBoPr-plus-plus-Cape) on the original BeBoPr wiki and at the [**BeBoPr forum**](http://forum.bebopr.info)
 
-**First of all, [here's the manual](https://github.com/modmaker/BeBoPr-plus-plus/blob/master/BeBoPr++ User Manual.pdf), finally available for public download.**
-
-The cape's **product page** can be found [**on the elinux.org wiki**](http://elinux.org/BeBoPr++).
-
-More information and the software tree can be found at the original [**BeBoPr repository**](https://github.com/modmaker/BeBoPr) and [**wiki pages**](https://github.com/modmaker/BeBoPr/wiki), but that information is not always up-to-date for the BeBoPr++. It does contain pointers, history and information that lead to the realisation of the BeBoPr++.
-
+Even more information, including [**the software tree**](https://github.com/modmaker/BeBoPr), can be found via the designer's [**github home page**](https://github.com/modmaker) and the [**BeBoPr wiki pages**](https://github.com/modmaker/BeBoPr/wiki). Beware that the Wiki also has information is no longer applicable for the BeBoPr++. It does contain pointers, the history and other information that lead to the realisation of the BeBoPr++ though.
