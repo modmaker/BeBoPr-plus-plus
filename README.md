@@ -1,6 +1,6 @@
 BeBoPr-plus-plus / a.k.a. BeBoPr++
 ================
-> **2014-04-12** created BeBoPr++ wiki.
+> **2015-07-03** added quick link to [BeBoPr++ wiki](http://github.com/modmaker/BeBoPr-plus-plus/wiki) as central information source.
 
 ___
 This repository holds only **BeBoPr++** specific information. The BeBoPr cape includes all I/O necessary to build a 3D-printer or create some other form of numerical control.
