@@ -20,5 +20,3 @@ Online information can be found [**via this link**](https://github.com/modmaker/
 [**The software tree**](https://github.com/modmaker/BeBoPr) can be found via the designer's [**github home page**](https://github.com/modmaker).
 
 Two wiki's exist, The older [BeBoPr wiki](https://github.com/modmaker/BeBoPr/wiki) and the new [**BeBoPr++ wiki**](https://github.com/modmaker/BeBoPr-plus-plus/wiki). Reading order: Start with the BeBoPr++ pages as it is specific for the BeBoPr++ and does not contain all the partly outdated, sometimes confusing information of the older version.
-
-For on-line help and discussions, there's a [**BeBoPr forum**](http://forum.bebopr.info).
